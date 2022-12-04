@@ -10,7 +10,7 @@ Modeled fractals :
 
 * Sierpinski triangle
 * Mandelbrot set
-* Julia setœ
+* Julia set
 * Pythagorean tree
 * Barnsley fern
 
